@@ -2,10 +2,10 @@
 
 Videos:
 
--Interview 1: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
--Interview 2: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
--Interview 3: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
--Video montage: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
+- Interview 1: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
+- Interview 2: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
+- Interview 3: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
+- Video montage: [Link](http://s2.quickmeme.com/img/4f/4f4b7b8cce3a920b9263179cb28d7c822cdfaa49e6bcaa2fe215a34a2fc727c8.jpg)
 
 
 The the following key points can be extrapolated from the interviews:
