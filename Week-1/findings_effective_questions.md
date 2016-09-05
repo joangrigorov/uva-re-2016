@@ -1,4 +1,4 @@
-# Video interviews week 1 - interesting findings and effective questions
+# Interviews week 1 - interesting findings and effective questions
 
 ## Introduction
 For the first set of intereviewed about blackboard we stumbled accross students from the following specialities:
