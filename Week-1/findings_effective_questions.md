@@ -24,6 +24,8 @@ The psychology student stated that she sees as a disatvantage the lacking feel o
 Very few from the interviewed actually addressed the UI as having a major negative impact. What was mostly mentioned, however, were possible improvements on the easy-to-access capabilities. In addition, the four physics students claimed that they were experiecing bugs and issues with the notification updates.
 
 ### Task Models
+
+#### Psychology homework
 ![Week 1, Task Model 1](task_model_1.png)
 
 ## Conclusions 
