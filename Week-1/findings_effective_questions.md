@@ -28,5 +28,8 @@ Very few from the interviewed actually addressed the UI as having a major negati
 #### Psychology homework
 ![Week 1, Task Model 1](task_model_1.png)
 
+#### Physics research project
+![Week 1, Task Model 2](task_model_2.png)
+
 ## Conclusions 
 From the collected feedback, it seems that students are not having any critical issues with the usage of blackboard. Furthermore, the current reported problems can be patched rather than enforcing rebuild of the whole system. However, some domains such as the integration with the orbiting UvA services can motivate the creation of a new platform.
