@@ -23,5 +23,8 @@ The psychology student stated that she sees as a disatvantage the lacking feel o
 ### Poor UI and issues
 Very few from the interviewed actually addressed the UI as having a major negative impact. What was mostly mentioned, however, were possible improvements on the easy-to-access capabilities. In addition, the four physics students claimed that they were experiecing bugs and issues with the notification updates.
 
+### Task Models
+![Week 1, Task Model 1](task_model_1.png)
+
 ## Conclusions 
 From the collected feedback, it seems that students are not having any critical issues with the usage of blackboard. Furthermore, the current reported problems can be patched rather than enforcing rebuild of the whole system. However, some domains such as the integration with the orbiting UvA services can motivate the creation of a new platform.
