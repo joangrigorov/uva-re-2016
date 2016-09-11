@@ -39,10 +39,10 @@ Note: Although the activities are represented in a linear fashion, the process w
 
 
 ## Based on the thesis of Nisha Jacob and your first interviews: identify the things you want to learn in interviewing.
-- The data needed for the process of requirements gathering
-- The validity of that data
-- The relevance of the data
+- Gather the data needed for the requrements construction.
+- Is the provided data valid?
+- Is the provided relveant to the process of RE?
 
-## Sources:
+### Sources:
 1. Van Lamsweerde, Alex. *Requirements Engineering: From System Goals to UML Models to Software Specifications.* Wiley, 2009.
 2. Hugh, Beyer. Holtzblatt, Karen. *Contextual Design.* Morgan Kaufmann, 1997.
