@@ -23,22 +23,24 @@ Note: Although the activities are represented in a linear fashion, the process w
 		* Research into alternative DLOs – available solution
 	- Data gathering (requirements elicitation/Contextual Inquiry – Van Lamsweerde, p. 31-32):
 		* Interviews – this a continuous process, that is done every week we gather information from our stockholders. Idea: It would be perfect if you could observe a user while he is working with blackboard.
+	- Data organization and structuring – structure our data efficiently so we have easy access to it if needed. This is a continuous activity throughout all of the feature weeks.
 
-2. Week 2
+	2. Week 2
 	- Data gathering:
 		* Interviews – based on the finding of the previous week, we conduct more interviews to remove any existing ambiguities and gather any missing requirements
 		* Interviews – based on the finding of the previous week, we conduct more interviews to remove any existing ambiguities and gather any missing requirements
-	- Requirements evaluation and agreement (Van Lamsweerde, p.32-33)
-	- Data organization and structuring
+	- Requirements evaluation and agreement (Van Lamsweerde, p.32-33) - we review all the information gathered until this point, clear any ambiguities, resolve any contradictions and priorities the separate raw requirements. After we finish this phase, we should how an initial requirements draft.
+	- Data organization and structuring (see Week 1)
 	
 3. Week 3
 	- Data gathering:
 		* Interviews – same is previous week
 	- Specification and documentation (Van Lamsweerde, p.33) – we systematically organize and structure the acquired data into a formal document (Requirements document) concerning the system requirements for the Blackboard successor system.
-
+	- Data organization and structuring (see Week 1)
+	
 4. Week 4
 	- Requirements consolidation (Van Lamsweerde, p.33) – after we construct the Requirements document, all the requirements must be validated via interaction with the stockholders. The week 4 interviews will be dedicated on requirements verification and if need on information gathering in case any problems arise.
-
+	- Data organization and structuring (see Week 1)
 
 ## Based on the thesis of Nisha Jacob and your first interviews: identify the things you want to learn in interviewing.
 - Gather the data needed for the requrements construction.
