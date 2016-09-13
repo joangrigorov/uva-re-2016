@@ -14,4 +14,4 @@ Most courses at Edx/Corusera/Udacity/Khan Academy are MOOCs (Massive Open Online
 - Lectures are split into short videos (4-10 mins).
 - Peer review is an important part of the course.
 - Forum discussions is encouraged.
-- Gamification is starting to plan an important role in the educational process.
+- Gamification is starting to play an important role in the educational process.
