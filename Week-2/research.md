@@ -15,3 +15,12 @@ Most courses at Edx/Corusera/Udacity/Khan Academy are MOOCs (Massive Open Online
 - Peer review is an important part of the course.
 - Forum discussions is encouraged.
 - Gamification is starting to play an important role in the educational process.
+
+## Important characteristics of high quality learning
+
+- Questions are more valuable than answers. 
+- Mistakes are not stigmatized, but welcomed.
+- The classroom creates a coherent learning community. 
+- Teamwork is encouraged.
+- Course assessment is transparent, flexible with sufficient feedback for the student.
+- The theoretical is not separated from the practical.
