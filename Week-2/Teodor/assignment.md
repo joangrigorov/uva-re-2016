@@ -19,3 +19,8 @@ TODO
 
 ## Sources:
 1. Zenger, Jack. Folkman, Joseph. *What Great Listeners Actually Do.* Harvard business review, 2016.
+2. Jacob, Nisha. "Requirements Elicitation Technique: Improving the Interview Technique.", 2015
+3. Falvello, Virginia. Vinson, Michael. Ferrari, Chiara. Todorov, Alexander. *The Robustness of Learning about the
+Trustworthiness of Other People.* Social Cognition, Vol. 33, No. 5, 2015, pp. 368–386
+4. Martinez, Laura. Falvello, Virginia. Aviezer, Hillel. Todorov, Alexander. *Contributions of facial expressions and body language to the rapid perception of
+dynamic emotions.* Cognition and Emotion, 2015, DOI: 10.1080/02699931.2015.1035229
