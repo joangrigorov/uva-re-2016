@@ -1,0 +1,13 @@
+# Reading & reading questions - individual assignment
+
+## Explore literature about emphatic listening, active listening and identify five verbal and non verbal cues that stimulate the interviewee in providing elaborate information. 
+
+TODO
+
+## Like the previous, but now identify five cues that stop .
+
+TODO
+
+## Explain from the theory how memory works why some of the techniques yield more reliable memories than others.
+
+TODO
