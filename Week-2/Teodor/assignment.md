@@ -16,3 +16,6 @@ Firstly the opposites of the previous point
 ## Explain from the theory how memory works why some of the techniques yield more reliable memories than others.
 
 TODO
+
+### Sources:
+1. Zenger, Jack. Folkman, Joseph. *What Great Listeners Actually Do.* Harvard business review, 2016.
