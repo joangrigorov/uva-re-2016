@@ -2,23 +2,26 @@
 
 ## Explore literature about emphatic listening, active listening and identify five verbal and non verbal cues that stimulate the interviewee in providing elaborate information. 
 
-- creates a safe and friendly enviorment for the interviewee:
+- Creates a safe and friendly enviorment for the interviewee:
     * Smiles towards the interviewee
     * Has an open body posture
-- plays the role of an active listener
+- Plays the role of an active listener
     * Asks questions towards the topics that the user is discussing
     * Show genuine interest in the discussed topic
-- listens for what the interviewee has to say. Does not interupt
-- ask questions that promote discovery and insight
-- promotes a cooperative conversation
+- Listens for what the interviewee has to say. Does not interupt
+- Ask questions that promote discovery and insight
+- Reflexive questions
 
 
 ## Like the previous, but now identify five cues that stop .
 
 Firstly the opposites of the previous point
 
-- the interviewer is fully passive
-- the interviewer is defensive
+- Interuptions
+- The interviewer is defensive
+    * Defensive body language - crossed arms, legs, leaning back
+    * The interviewer, tries to argue with the interviewee based on personal opinions
+- Gossiping
 
 ## Explain from the theory how memory works why some of the techniques yield more reliable memories than others.
 
