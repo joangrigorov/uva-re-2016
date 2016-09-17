@@ -9,8 +9,8 @@
     * Asks questions towards the topics that the user is discussing
     * Show genuine interest in the discussed topic
 - Listens for what the interviewee has to say. Does not interupt
-- Ask questions that promote discovery and insight
-- Reflexive questions
+- Ask questions that promote discovery and insight [Zenger, Folkman, p.2]
+- Reflexive questions [Jacob, p.16]
 
 
 ## Like the previous, but now identify five cues that stop .
