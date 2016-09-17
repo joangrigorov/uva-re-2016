@@ -2,10 +2,10 @@
 
 ## Explore literature about emphatic listening, active listening and identify five verbal and non verbal cues that stimulate the interviewee in providing elaborate information. 
 
-- Creates a safe and friendly enviorment for the interviewee:
+- Creates a safe and friendly enviorment for the interviewee [Zenger, Folkman, p.4]:
     * Smiles towards the interviewee
     * Has an open body posture
-- Plays the role of an active listener
+- Plays the role of an active listener [Zenger, Folkman, p.1-5]:
     * Asks questions towards the topics that the user is discussing [Zenger, Folkman, p.2]
     * Show genuine interest in the discussed topic
 - Listens for what the interviewee has to say. Does not interupt
