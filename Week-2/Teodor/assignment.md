@@ -25,7 +25,7 @@ Firstly the opposites of the previous point
 
 ## Explain from the theory how memory works why some of the techniques yield more reliable memories than others.
 
-From purely biological point of view, recording a memory requires adjusting the connections between neurons. Each created memory modifies some tiny subset of the neurons in the brain, changing the way they exchange information.
+From purely biological point of view, as discussed in Smithsonian magazine ["How Our Brains Make Memories"], recording a memory requires adjusting the connections between neurons. Each created memory modifies some tiny subset of the neurons in the brain, changing the way they exchange information.
 
 ## Sources:
 1. Zenger, Jack. Folkman, Joseph. *What Great Listeners Actually Do.* Harvard business review, 2016.
@@ -34,3 +34,4 @@ From purely biological point of view, recording a memory requires adjusting the 
 Trustworthiness of Other People.* Social Cognition, Vol. 33, No. 5, 2015, pp. 368–386
 4. Martinez, Laura. Falvello, Virginia. Aviezer, Hillel. Todorov, Alexander. *Contributions of facial expressions and body language to the rapid perception of
 dynamic emotions.* Cognition and Emotion, 2015, DOI: 10.1080/02699931.2015.1035229
+5. "How Our Brains Make Memories" Smithsonian magazine, May 2010, http://www.smithsonianmag.com/science-nature/how-our-brains-make-memories-14466850/.
