@@ -6,7 +6,7 @@
     * Smiles towards the interviewee
     * Has an open body posture
 - Plays the role of an active listener
-    * Asks questions towards the topics that the user is discussing
+    * Asks questions towards the topics that the user is discussing [Zenger, Folkman, p.2]
     * Show genuine interest in the discussed topic
 - Listens for what the interviewee has to say. Does not interupt
 - Ask questions that promote discovery and insight [Zenger, Folkman, p.2]
@@ -25,7 +25,7 @@ Firstly the opposites of the previous point
 
 ## Explain from the theory how memory works why some of the techniques yield more reliable memories than others.
 
-TODO
+From purely biological point of view, recording a memory requires adjusting the connections between neurons. Each created memory modifies some tiny subset of the neurons in the brain, changing the way they exchange information.
 
 ## Sources:
 1. Zenger, Jack. Folkman, Joseph. *What Great Listeners Actually Do.* Harvard business review, 2016.
