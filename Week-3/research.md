@@ -2,6 +2,8 @@
 
 ## Interesting questions and claims
 
+**Questions:**
+
 **Q:** What are the general activities that students perform using the DLO?
 **A:** Homework assignments, course materials, grading and examination.
 
@@ -11,3 +13,8 @@
 2. No single point of access for all university related sites. 
 3. Usage of 3rd party services for common tasks (surveys, file sharing, external examination, etc.)
 4. Course layouts are not uniform
+
+**Claims:**
+
+* The Blackboard system must be replaced with a new system
+
