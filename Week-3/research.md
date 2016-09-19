@@ -1,6 +1,6 @@
 # Research
 
-## Interesting questions
+## Answered questions:
 
 **Q:** What are the general activities that students perform using the DLO?
 
@@ -16,6 +16,10 @@
 * Usage of 3rd party services for common tasks (surveys, file sharing, external examination, etc.)
 * Course layouts are not uniform
 
+---
+
+**Q:** What features can have a positive effect in the new DLO?
+**A:** Peer reviewing, opportunity for webinars
 
 ## Claims:
 
