@@ -1,8 +1,6 @@
 # Research
 
-## Interesting questions and claims
-
-**Questions:**
+## Interesting questions
 
 **Q:** What are the general activities that students perform using the DLO?
 
@@ -16,7 +14,7 @@
 3. Usage of 3rd party services for common tasks (surveys, file sharing, external examination, etc.)
 4. Course layouts are not uniform
 
-**Claims:**
+## Claims:
 
 * The Blackboard system must be replaced with a new system
 
