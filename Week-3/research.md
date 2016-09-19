@@ -19,6 +19,7 @@
 ---
 
 **Q:** What features can have a positive effect in the new DLO?
+
 **A:** Peer reviewing, opportunity for webinars
 
 ## Claims:
