@@ -5,9 +5,11 @@
 **Questions:**
 
 **Q:** What are the general activities that students perform using the DLO?
+
 **A:** Homework assignments, course materials, grading and examination.
 
 **Q:** Which type of usability problems might be annoying but have no impact on education?
+
 **A:** 
 1. Search functionality is missing (course materials)
 2. No single point of access for all university related sites. 
