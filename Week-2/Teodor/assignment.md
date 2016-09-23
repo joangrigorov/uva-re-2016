@@ -27,6 +27,8 @@ Firstly the opposites of the previous point
 
 From purely biological point of view, as discussed in Smithsonian magazine ["How Our Brains Make Memories"], recording a memory requires adjusting the connections between neurons. Each created memory modifies some tiny subset of the neurons in the brain, changing the way they exchange information.
 
+
+
 ## Sources:
 1. Zenger, Jack. Folkman, Joseph. *What Great Listeners Actually Do.* Harvard business review, 2016.
 2. Jacob, Nisha. "Requirements Elicitation Technique: Improving the Interview Technique.", 2015
