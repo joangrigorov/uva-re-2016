@@ -7,12 +7,12 @@ The DLO aims to enhance the learning process.
 The DLO should:
 
 1. Insure real-time information supply to students
-2. Be a centralized place for a variaty of course related actions, such as:
+2. Be a centralized place for a variety of course related actions, such as:
   - Homework descriptions access
   - Learning materials 
   - Notifications/Announcements
   - Grading
-  - Interstudent communication
+  - Inter-student communication
 
 ## To make that new system a reality: which features / services should the new DLO offer. And what are the requirements for those features.
 
@@ -20,12 +20,14 @@ The DLO should:
 The course catalog should list all the available courses, in which the student has been enrolled. Furthermore, the catalog should provide information for each of the courses. The information should include teacher contacts, grading information. 
 
 ### 2. Course announcements 
-The teachers would publish immediate information notitces related to course activities. In addition, students will recieve notifications through e-mail as well.
+The teachers would publish immediate information notices related to course activities. In addition, students will receive notifications through e-mail as well.
 
 ### 3. Course learning materials
+A data store with course materials (books, references, papers, publications, links) should be available for each course. Teachers would publish the necessary course materials there. Searching through within this database is essential.
+
 ### 4. Homework assignments
 ### 5. Grading
-### 6. Chatrooms/forums (interstudent communication)
+### 6. Chat-rooms/forums (inter-student communication)
 
 ## You also make your work of the first four weeks of the course presentable, your contribution could be in the following sections: only describe that that will make clear your contributions and what you've learned. No need to answer all questions:
 TODO
