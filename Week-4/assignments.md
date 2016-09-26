@@ -19,7 +19,9 @@ The DLO should:
 ### 1. Course catalog
 The course catalog should list all the available courses, in which the student has been enrolled. Furthermore, the catalog should provide information for each of the courses. The information should include teacher contacts, grading information. 
 
-### 2. Course announcments 
+### 2. Course announcements 
+The teachers would publish immediate information notitces related to course activities. In addition, students will recieve notifications through e-mail as well.
+
 ### 3. Course learning materials
 ### 4. Homework assignments
 ### 5. Grading
