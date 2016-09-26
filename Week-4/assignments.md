@@ -17,6 +17,8 @@ The DLO should:
 ## To make that new system a reality: which features / services should the new DLO offer. And what are the requirements for those features.
 
 ### 1. Course catalog
+The course catalog should list all the available courses, in which the student has been enrolled. Furthermore, the catalog should provide information for each of the courses. The information should include teacher contacts, grading information. 
+
 ### 2. Course announcments 
 ### 3. Course learning materials
 ### 4. Homework assignments
