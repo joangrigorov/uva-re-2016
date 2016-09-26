@@ -1,5 +1,9 @@
 ## Name the goal(s) that you focused on, whereto the DLO should contribute.
-TODO
+The DLO:
+
+1. Aims to enhance the learning process.
+2. Insures real-time information supply to students
+3. Is a centralized place for a variaty of course related actions
 
 ## Present the "theories" / "the way" that you developed to explain how the new "system" will impact those goals.
 TODO
