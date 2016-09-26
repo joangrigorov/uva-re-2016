@@ -12,7 +12,6 @@ The DLO should:
   - Learning materials 
   - Notifications/Announcements
   - Grading
-  - Inter-student communication
 
 ## To make that new system a reality: which features / services should the new DLO offer. And what are the requirements for those features.
 
@@ -29,8 +28,7 @@ A data store with course materials (books, references, papers, publications, lin
 A special section for homework assignments should provide description and time period for the upcoming (and passed) assignments. Additionally, students would also be able to hand-in their assignments using a dedicated form for the purpose.
 
 ### 5. Grading
-
-### 6. Chat-rooms/forums (inter-student communication)
+Teachers (or backoffice dedicated staff) would use the DLO to insert grades for each student. The list is viewable by the students.
 
 ## You also make your work of the first four weeks of the course presentable, your contribution could be in the following sections: only describe that that will make clear your contributions and what you've learned. No need to answer all questions:
 TODO
