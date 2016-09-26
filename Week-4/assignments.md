@@ -16,7 +16,12 @@ The DLO should:
 
 ## To make that new system a reality: which features / services should the new DLO offer. And what are the requirements for those features.
 
-
+### 1. Course catalog
+### 2. Course announcments 
+### 3. Course learning materials
+### 4. Homework assignments
+### 5. Grading
+### 6. Chatrooms/forums (interstudent communication)
 
 ## You also make your work of the first four weeks of the course presentable, your contribution could be in the following sections: only describe that that will make clear your contributions and what you've learned. No need to answer all questions:
 TODO
