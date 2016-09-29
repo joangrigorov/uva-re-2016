@@ -1,22 +1,34 @@
+# Part 1
+
 ## Name the goal(s) that you focused on, whereto the DLO should contribute.
 
 The DLO aims to enhance the learning process.
+
+Sub-goals:
+* Student are more efficient at there studies (they can spend less time, absorbing more information).
+* Information should be easily accessible to all students.
 
 ## Present the "theories" / "the way" that you developed to explain how the new "system" will impact those goals.
 
 The DLO should:
 
 1. Insure real-time information supply to students
+  - Notifications/Announcements
+  - Lecture recordings/Live lectures
 2. Be a centralized place for a variety of course related actions, such as:
   - Homework descriptions access
   - Learning materials 
-  - Notifications/Announcements
   - Grading
+  - Notifications/Announcements
+3. Ensure the opportunity for easy communication between students
+
 
 ## To make that new system a reality: which features / services should the new DLO offer. And what are the requirements for those features.
 
-### 1. Course catalog
-The course catalog should list all the available courses, in which the student has been enrolled. Furthermore, the catalog should provide information for each of the courses. The information should include teacher contacts, grading information. 
+### 1. Course catalog:
+ - The course catalog should list all the available courses, in which the student has been enrolled. 
+ - The catalog should provide information for each of the courses. The information should include teacher contacts, grading information.
+ - Should provied 
 
 ### 2. Course announcements 
 The teachers would publish immediate information notices related to course activities. In addition, students will receive notifications through e-mail as well.
@@ -30,7 +42,9 @@ A special section for homework assignments should provide description and time p
 ### 5. Grading
 Teachers (or backoffice dedicated staff) would use the DLO to insert grades for each student. The list is viewable by the students.
 
-## You also make your work of the first four weeks of the course presentable, your contribution could be in the following sections: only describe that that will make clear your contributions and what you've learned. No need to answer all questions:
+# Part 2
+
+## You also make your work of the first four weeks of the course presentable, your contribution could be in the following sections: only describe that will make clear your contributions and what you've learned. No need to answer all questions:
 TODO
 
 ### What did you learn about the domain?
@@ -56,7 +70,8 @@ We considered not only the feedback from the interviews, but the logical outcome
 We decided that after each week, we would improve our interviews in order to avoid getting the same information again and again from the interviewees.
 
 ### What hard data did you find to justify your findings?
-TODO
+
+1. Required reading materials provided in the course.
 
 ### What argumentation did you use to better think about the requirements / or to try to refute them?
 TODO
@@ -78,11 +93,26 @@ The major part of the performed interviews was observing the natural reactions o
 
 #### Structuring and visualizing
 
+---
+
 ### Show what you learned about elicitation and your ability as interviewer.
 TODO
 
 ### How would you gather useful  hard / objective / measurable date?
-TODO
+Literature research.
 
 ### What can you learn from the current use of blackboard for the future use of any DLO?
-TODO
+1. It's better to have a DLO, than NOT to have and DLO!
+
+---
+## Sources:
+
+1. Zenger, Jack. Folkman, Joseph. *What Great Listeners Actually Do.* Harvard business review, 2016.
+2. Jacob, Nisha. "Requirements Elicitation Technique: Improving the Interview Technique.", 2015
+3. Falvello, Virginia. Vinson, Michael. Ferrari, Chiara. Todorov, Alexander. *The Robustness of Learning about the
+Trustworthiness of Other People.* Social Cognition, Vol. 33, No. 5, 2015, pp. 368–386
+4. Martinez, Laura. Falvello, Virginia. Aviezer, Hillel. Todorov, Alexander. *Contributions of facial expressions and body language to the rapid perception of
+dynamic emotions.* Cognition and Emotion, 2015, DOI: 10.1080/02699931.2015.1035229
+5. "How Our Brains Make Memories" Smithsonian magazine, May 2010, http://www.smithsonianmag.com/science-nature/how-our-brains-make-memories-14466850/.
+6. "What we're learning from online education", Daphne Koller, 2012, https://www.ted.com/talks/daphne_koller_what_we_re_learning_from_online_education
+7. "Let's use video to reinvent education", Sal Khan, 2011, https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education
