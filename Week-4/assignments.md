@@ -57,6 +57,7 @@ The DLO should:
   - Get graded by other students
   - Grade other students
 
+
 ### 5. Grading
  - Teachers (or backoffice dedicated staff) would use the DLO to insert grades for each student.
  - Students should be able to see their grades.
@@ -114,7 +115,8 @@ We decided that after each week, we would improve our interviews in order to avo
 3. Research into other online learning environments
 
 ### What argumentation did you use to better think about the requirements / or to try to refute them?
-TODO
+We tried finding scientific literature to support, or refute, any statements we received. Additionally we research other DLO solution that are commercially available.
+Moreover when possible we always tried to considered different view points for the same statement.
 
 ### Show what you learned about requirements engineering and how this relates to the learning goals of the course.
 
