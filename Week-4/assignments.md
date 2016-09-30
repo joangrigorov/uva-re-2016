@@ -32,7 +32,7 @@ The DLO should:
  - The catalog should provide information for each of the courses. The information should include teacher contacts, grading information.
  - Should provide easy link to common course actions (see grades, see course materials etc.)
 
-### 2. Course announcements
+### 2. Course announcements/notifications
 **Goal:** Information should be easily accessible to all students
 
  - The teachers would publish immediate information notices related to course activities.
@@ -51,6 +51,11 @@ The DLO should:
 
 - A special section for homework assignments should provide description and time period for the upcoming (and passed) assignments. 
 - Students would also be able to hand-in their assignments using a dedicated form for the purpose.
+- Teachers should have an easy way to grade the homework and give feedback to the students.
+- Students should have an easy way to reserve feedback from teacher (get notifications, when the feedback is available).
+- Peer review:
+  - Get graded by other students
+  - Grade other students
 
 ### 5. Grading
  - Teachers (or backoffice dedicated staff) would use the DLO to insert grades for each student.
