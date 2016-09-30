@@ -26,24 +26,29 @@ The DLO should:
 ## To make that new system a reality: which features / services should the new DLO offer. And what are the requirements for those features.
 
 ### 1. Course catalog:
+**Goal:** Information should be easily accessible to all students
+
  - The course catalog should list all the available courses, in which the student has been enrolled. 
  - The catalog should provide information for each of the courses. The information should include teacher contacts, grading information.
  - Should provide easy link to common course actions (see grades, see course materials etc.)
 
 ### 2. Course announcements
-**Goal:** Insure real-time information supply to students
+**Goal:** Information should be easily accessible to all students
 
  - The teachers would publish immediate information notices related to course activities.
  - Notifications should be real-time.
  - Students should be able to receive notifications through e-mail as well.
 
 ### 3. Course learning materials
+**Goal:** Information should be easily accessible to all students
+
  - A data store with course materials (books, references, papers, publications, links) should be available for each course. 
  - Teachers would publish the necessary course materials there. 
  - Students should have access to learning materials from past course instances.
  - Searching through within this database is essential.
 
 ### 4. Homework assignments
+
 - A special section for homework assignments should provide description and time period for the upcoming (and passed) assignments. 
 - Students would also be able to hand-in their assignments using a dedicated form for the purpose.
 
@@ -52,7 +57,7 @@ The DLO should:
  - Students should be able to see their grades.
 
 ### 6. Video lectures
-**Goal:** Insure real-time information supply to students
+**Goal:** Information should be easily accessible to all students
 
   - Teachers should have an easy way to record and upload there lectures.
   - Students should have an easy way to look over recorded lectures.
@@ -60,7 +65,7 @@ The DLO should:
 **Theory:** See [6] [7]
 
 ### 7. Forum/discussion board
-**Goal:** Ensure the opportunity for easy communication between students
+**Goal:** Information should be easily accessible to all students
 
 Although this is not a critical requirement, it's a good idea to have an easy way for student-to-student and teacher-to-student communicatio.
 
@@ -101,7 +106,7 @@ We decided that after each week, we would improve our interviews in order to avo
 
 1. Required reading materials provided in the course.
 2. Scientific papers
-3. Reserach into other online learning environments
+3. Research into other online learning environments
 
 ### What argumentation did you use to better think about the requirements / or to try to refute them?
 TODO
@@ -126,13 +131,14 @@ The major part of the performed interviews was observing the natural reactions o
 ---
 
 ### Show what you learned about elicitation and your ability as interviewer.
-TODO
+TODO: Speak about the techniques described in [2]?
 
 ### How would you gather useful  hard / objective / measurable date?
 Literature research.
 
 ### What can you learn from the current use of blackboard for the future use of any DLO?
-1. It's better to have a DLO, than NOT to have and DLO!
+1. An intuitive user interface design, although a nice to have, is not a critiacal part of the learning process.
+2. If a feature is missing in the current DLO system, a valid option is to use a 3rd party software.
 
 ---
 ## Sources:
