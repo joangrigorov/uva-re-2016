@@ -138,13 +138,17 @@ The major part of the performed interviews was observing the natural reactions o
 ---
 
 ### Show what you learned about elicitation and your ability as interviewer.
-TODO: Speak about the techniques described in [2]?
+We learned:
+- How to recognize the different verbal and non-verbal cues from the interviewees.
+- How to recognize if the information provided by the interviewee is an important requirement or a nice to have feature.
+- How to create a safe environment, which promotes easy communication.
+- To extract additional information from the interviewee and deal with uncooperative people.
 
 ### How would you gather useful  hard / objective / measurable date?
 Literature research.
 
 ### What can you learn from the current use of blackboard for the future use of any DLO?
-1. An intuitive user interface design, although a nice to have, is not a critiacal part of the learning process.
+1. An intuitive user interface design, although a nice to have, is not a critical part of the learning process.
 2. If a feature is missing in the current DLO system, a valid option is to use a 3rd party software.
 
 ---
