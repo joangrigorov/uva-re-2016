@@ -28,7 +28,7 @@ The DLO should:
 ### 1. Course catalog:
  - The course catalog should list all the available courses, in which the student has been enrolled. 
  - The catalog should provide information for each of the courses. The information should include teacher contacts, grading information.
- - Should provied 
+ - Should provide easy link to common course actions (see grades, see course materials etc.)
 
 ### 2. Course announcements 
 The teachers would publish immediate information notices related to course activities. In addition, students will receive notifications through e-mail as well.
@@ -41,6 +41,21 @@ A special section for homework assignments should provide description and time p
 
 ### 5. Grading
 Teachers (or backoffice dedicated staff) would use the DLO to insert grades for each student. The list is viewable by the students.
+
+### 6. Video lectures
+**Goal:** Insure real-time information supply to students
+
+  - Teachers should have an easy way to record and upload there lectures.
+  - Students should have an easy way to look over recorded lectures.
+
+**Theory:** See [6] [7]
+
+### 7. Forum/discussion board
+**Goal:** Ensure the opportunity for easy communication between students
+
+Although this is not a critical requirement, it's a good idea to have an easy way for student-to-student and teacher-to-student communicatio.
+
+**Theory:** See [8]
 
 # Part 2
 
@@ -116,4 +131,4 @@ dynamic emotions.* Cognition and Emotion, 2015, DOI: 10.1080/02699931.2015.10352
 5. "How Our Brains Make Memories" Smithsonian magazine, May 2010, http://www.smithsonianmag.com/science-nature/how-our-brains-make-memories-14466850/.
 6. "What we're learning from online education", Daphne Koller, 2012, https://www.ted.com/talks/daphne_koller_what_we_re_learning_from_online_education
 7. "Let's use video to reinvent education", Sal Khan, 2011, https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education
-8. "", https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education 
+8. "Using Online Forums in Language Learning and Education", Manprit Kaur, 2011, http://www.inquiriesjournal.com/articles/414/using-online-forums-in-language-learning-and-education
