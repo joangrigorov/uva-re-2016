@@ -30,17 +30,26 @@ The DLO should:
  - The catalog should provide information for each of the courses. The information should include teacher contacts, grading information.
  - Should provide easy link to common course actions (see grades, see course materials etc.)
 
-### 2. Course announcements 
-The teachers would publish immediate information notices related to course activities. In addition, students will receive notifications through e-mail as well.
+### 2. Course announcements
+**Goal:** Insure real-time information supply to students
+
+ - The teachers would publish immediate information notices related to course activities.
+ - Notifications should be real-time.
+ - Students should be able to receive notifications through e-mail as well.
 
 ### 3. Course learning materials
-A data store with course materials (books, references, papers, publications, links) should be available for each course. Teachers would publish the necessary course materials there. Searching through within this database is essential.
+ - A data store with course materials (books, references, papers, publications, links) should be available for each course. 
+ - Teachers would publish the necessary course materials there. 
+ - Students should have access to learning materials from past course instances.
+ - Searching through within this database is essential.
 
 ### 4. Homework assignments
-A special section for homework assignments should provide description and time period for the upcoming (and passed) assignments. Additionally, students would also be able to hand-in their assignments using a dedicated form for the purpose.
+- A special section for homework assignments should provide description and time period for the upcoming (and passed) assignments. 
+- Students would also be able to hand-in their assignments using a dedicated form for the purpose.
 
 ### 5. Grading
-Teachers (or backoffice dedicated staff) would use the DLO to insert grades for each student. The list is viewable by the students.
+ - Teachers (or backoffice dedicated staff) would use the DLO to insert grades for each student.
+ - Students should be able to see their grades.
 
 ### 6. Video lectures
 **Goal:** Insure real-time information supply to students
@@ -59,9 +68,6 @@ Although this is not a critical requirement, it's a good idea to have an easy wa
 
 # Part 2
 
-## You also make your work of the first four weeks of the course presentable, your contribution could be in the following sections: only describe that will make clear your contributions and what you've learned. No need to answer all questions:
-TODO
-
 ### What did you learn about the domain?
 We learnt that there is a set of core features within the existing DLO (blackboard) that users focus their needs on. Generally speaking, the most important aspects for the students are the homework assignments, announcements, course learning materials and grading.
 
@@ -69,12 +75,19 @@ We learnt that there is a set of core features within the existing DLO (blackboa
 - Chat-room/forums
 
     There were suggestions during the interviews about an integrated chat/forum system. However, a good part of the interviewed claimed that they use with ease 3rd party software for communication (apps such as Telegram, WhatsApp, Messenger).
+  
 - UI/UX focus
 
     Some students addressed and emphasised on problems with accessibility, caused by poor UI/UX design. In fact, many of them claimed, that this is a core problem with the system. However, after further conversations none of the interviewees admitted that the current UI/UX design would greatly intervene with their education. Therefore, extra UI/UX features do not seem to be of a major and/or critical importance for the DLO, considering the core goal.
 
 ### What is the justification and how reliable are your findings?
-TODO
+
+To justify our findings from the requrements elicitation interview we used: 
+- Literature provided in the course
+- Scientific papers. 
+- Researched other DLOs (edX, Coursera, Khan Academy, etc.)
+
+Although the information acquired and backed with hard prove, should be fairly reliable, it's recommended, to never take it for granted.
 
 ### Why are these findings relevant (not a waste of your time)?
 If we take as facts the claims gathered from the interviews without questioning and challenging them, we would risk assembling falsely prioritized list of requirements for the new DLO. Moreover, many of the ideas and complaints from the interviews can be considered rather nice-to-haves than actual core requirements, related to the main goal.
@@ -87,6 +100,8 @@ We decided that after each week, we would improve our interviews in order to avo
 ### What hard data did you find to justify your findings?
 
 1. Required reading materials provided in the course.
+2. Scientific papers
+3. Reserach into other online learning environments
 
 ### What argumentation did you use to better think about the requirements / or to try to refute them?
 TODO
