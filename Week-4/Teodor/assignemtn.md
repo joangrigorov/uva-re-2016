@@ -9,7 +9,7 @@ The following are just a few, modelling techniques used in requrements engineeri
 
 ![SMD](UML_State_diagram.png "SMD")
 
-- System context diagram - provides a high level view of the system, show the entites that the system interacts with in its' enviorment.
+- System context diagram - provides a high level view of the system, show the entities that the system interacts with in its' enviorment.
 
 ![SCD](system_context_diagram.png "SCD")
 
@@ -21,3 +21,7 @@ See next answer.
 An excellent approach for graphically recording and organising ideas is mindmapping. Personally I find it an excellent way to organise big amounts of data.
 
 A god article about, mindmapping: [The Student’s Guide to Mind Mapping](http://www.mindmeister.com/blog/2013/09/17/the-students-guide-to-mind-mapping/)
+
+Example mind map:
+
+![SCD](learn_to_learn.png "SCD")
