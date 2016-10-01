@@ -73,7 +73,7 @@ The DLO should:
 ### 7. Forum/discussion board
 **Goal:** Information should be easily accessible to all students
 
-Although this is not a critical requirement, it's a good idea to have an easy way for student-to-student and teacher-to-student communicatio.
+Although this is not a critical requirement, it's a good idea to have an easy way for student-to-student and teacher-to-student communication.
 
 **Theory:** See [8]
 
