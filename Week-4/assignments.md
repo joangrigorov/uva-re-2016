@@ -93,7 +93,7 @@ We learnt that there is a set of core features within the existing DLO (blackboa
 
 ### What is the justification and how reliable are your findings?
 
-To justify our findings from the requrements elicitation interview we used: 
+To justify our findings from the requirements elicitation interview we used: 
 - Literature provided in the course
 - Scientific papers. 
 - Researched other DLOs (edX, Coursera, Khan Academy, etc.)
