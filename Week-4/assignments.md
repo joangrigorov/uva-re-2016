@@ -133,6 +133,8 @@ In general, we think that the course is exactly about realizing and getting _clo
 
 The major part of the performed interviews was observing the natural reactions of the interviewees, and reflecting on them. Simply put, we noticed a variety of patterns during each interview that hint about the cognitive biases of the interviewed subject. Those patterns, in general, include body language (for example folding arms and legs when the subject goes into protective state), facial expressions (eye brows movements, etc) and bi-polar statements (for example wrong answer after a question, followed by self-contradicting claims).
 
+During the second week of the course, we gathered information from the research experiments of prof. Alexander Todorov. Generally speaking, a significant part of his research is focused on how people precieve and respond to differences in facial expressions, body language and posture. Put into practice, we understood that ensuring trustworthiness in people is essential in order to perform better as interviewers. [In one of his experiments](http://tlab.princeton.edu/publication_files/2015%20Publications/The%20robustness%20of%20learning%20about%20the%20trustworthiness%20of%20other%20people.pdf), Todorov proves that smiling creates a sense of trust in the interviewee.
+
 #### Structuring and visualizing
 
 An essential part of any requirements engineering process is properly cataloging the data after we acquired it. Throughout the course, we experimented with different techniques for organizing (mindmaping) and structuring (task models) data. That in turn, helped us get a clear picture of the whole system and what information we still needed.
@@ -145,6 +147,7 @@ We learned:
 - How to recognize if the information provided by the interviewee is an important requirement or a nice to have feature.
 - How to create a safe environment, which promotes easy communication.
 - To extract additional information from the interviewee and deal with uncooperative people.
+- Understand how facial expressions and body language knowledge can influence the interviewee.
 
 ### How would you gather useful  hard / objective / measurable date?
 Literature research.
