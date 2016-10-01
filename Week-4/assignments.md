@@ -135,6 +135,8 @@ The major part of the performed interviews was observing the natural reactions o
 
 #### Structuring and visualizing
 
+An essential part of any requirements engineering process is properly cataloging the data after we acquired it. Throughout the course, we experimented with different techniques for organizing (mindmaping) and structuring (task models) data. That in turn, helped us get a clear picture of the whole sytem and what information we still needed.
+
 ---
 
 ### Show what you learned about elicitation and your ability as interviewer.
